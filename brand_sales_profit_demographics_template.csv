@@ -1,0 +1,2 @@
+Brand,Region,Year,Sales_GBP,Cost_of_Goods_Sold_GBP,Gross_Profit_GBP,Gross_Margin_pct,Operating_Expenses_GBP,Operating_Profit_GBP,Operating_Margin_pct,Units_Sold,Avg_Price_per_Unit_GBP,Customer_Age_Median,Customer_Age_Mean,Customer_Gender_F_pct,Customer_Gender_M_pct,Customer_Gender_Other_pct,Top_5_Cities,Notes,Data_Source
+Loake,UK,2024,,,,,,,,,,,,,,,,"Placeholder row; replace with verified figures from filings, surveys, etc.","e.g., Companies House filing, press release, internal ERP"
