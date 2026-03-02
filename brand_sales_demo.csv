@@ -1,0 +1,193 @@
+Brand,Year,Quarter,Region,Product_Category,Units_Sold,Revenue_USD,COGS_USD,Gross_Profit_USD,Profit_Margin_Percent,Customer_Age_Group,Gender,Income_Bracket,Urbanicity
+Keen,2022,Q1,West,Hiking Boots,24819,3530416.0,2108161.0,1422255.0,40.3,25-34,Male,150k+,Urban
+Keen,2022,Q1,South,Work Boots,25041,3027305.0,1802169.0,1225136.0,40.5,18-24,Male,150k+,Suburban
+Keen,2022,Q1,Northeast,Sandals,38719,5330753.0,3393878.0,1936875.0,36.3,18-24,Male,100k-150k,Suburban
+Keen,2022,Q1,Midwest,Trail Shoes,29094,3679210.0,2330576.0,1348634.0,36.7,18-24,Male,100k-150k,Urban
+Keen,2022,Q2,West,Trail Shoes,51770,6746598.0,4037950.0,2708648.0,40.1,18-24,Female,150k+,Urban
+Keen,2022,Q2,South,Work Boots,26582,3630070.0,2316196.0,1313874.0,36.2,35-44,Male,Under 50k,Urban
+Keen,2022,Q2,Northeast,Sandals,49331,6347994.0,3717293.0,2630701.0,41.4,25-34,Male,100k-150k,Suburban
+Keen,2022,Q2,Midwest,Work Boots,44830,6501395.0,3844833.0,2656562.0,40.9,35-44,Male,75k-100k,Rural
+Keen,2022,Q3,West,Hiking Boots,43960,6112609.0,3773862.0,2338747.0,38.3,25-34,Male,100k-150k,Suburban
+Keen,2022,Q3,South,Trail Shoes,44971,6324940.0,3765699.0,2559241.0,40.5,35-44,Male,50k-75k,Urban
+Keen,2022,Q3,Northeast,Trail Shoes,37145,4755757.0,2828576.0,1927181.0,40.5,35-44,Male,100k-150k,Suburban
+Keen,2022,Q3,Midwest,Work Boots,28681,3669631.0,2191738.0,1477893.0,40.3,35-44,Female,150k+,Suburban
+Keen,2022,Q4,West,Trail Shoes,31186,4675398.0,2757004.0,1918394.0,41.0,45-54,Male,Under 50k,Urban
+Keen,2022,Q4,South,Sandals,44560,5561064.0,3490311.0,2070753.0,37.2,18-24,Female,100k-150k,Rural
+Keen,2022,Q4,Northeast,Work Boots,41338,5272349.0,3262138.0,2010211.0,38.1,18-24,Male,150k+,Suburban
+Keen,2022,Q4,Midwest,Trail Shoes,27655,3562102.0,2105455.0,1456647.0,40.9,18-24,Female,150k+,Urban
+Keen,2023,Q1,West,Hiking Boots,44489,5737005.0,3584059.0,2152946.0,37.5,25-34,Male,75k-100k,Urban
+Keen,2023,Q1,South,Hiking Boots,43626,5659369.0,3290150.0,2369219.0,41.9,35-44,Female,50k-75k,Urban
+Keen,2023,Q1,Northeast,Sandals,42591,6320866.0,3704001.0,2616865.0,41.4,45-54,Male,150k+,Urban
+Keen,2023,Q1,Midwest,Sandals,45618,6124603.0,3787983.0,2336620.0,38.2,35-44,Female,50k-75k,Rural
+Keen,2023,Q2,West,Sandals,47361,6126216.0,3979960.0,2146256.0,35.0,35-44,Female,150k+,Suburban
+Keen,2023,Q2,South,Hiking Boots,32123,4071299.0,2457705.0,1613594.0,39.6,25-34,Male,Under 50k,Urban
+Keen,2023,Q2,Northeast,Hiking Boots,31501,3843815.0,2237865.0,1605950.0,41.8,35-44,Male,150k+,Urban
+Keen,2023,Q2,Midwest,Trail Shoes,45921,6179242.0,3817204.0,2362038.0,38.2,45-54,Male,100k-150k,Suburban
+Keen,2023,Q3,West,Sandals,27090,3329576.0,2031619.0,1297957.0,39.0,45-54,Female,100k-150k,Rural
+Keen,2023,Q3,South,Hiking Boots,46064,6430703.0,4020685.0,2410018.0,37.5,18-24,Female,75k-100k,Urban
+Keen,2023,Q3,Northeast,Sandals,30278,3806134.0,2327082.0,1479052.0,38.9,45-54,Male,75k-100k,Suburban
+Keen,2023,Q3,Midwest,Sandals,26470,3528290.0,2259144.0,1269146.0,36.0,18-24,Male,150k+,Urban
+Keen,2023,Q4,West,Hiking Boots,48692,7082781.0,4190469.0,2892312.0,40.8,45-54,Female,50k-75k,Suburban
+Keen,2023,Q4,South,Hiking Boots,29394,3861466.0,2505982.0,1355484.0,35.1,35-44,Female,75k-100k,Suburban
+Keen,2023,Q4,Northeast,Work Boots,29072,3654261.0,2175159.0,1479102.0,40.5,18-24,Male,75k-100k,Urban
+Keen,2023,Q4,Midwest,Hiking Boots,43142,5794128.0,3733488.0,2060640.0,35.6,25-34,Male,150k+,Urban
+Keen,2024,Q1,West,Sandals,26245,3617901.0,2269382.0,1348519.0,37.3,25-34,Female,Under 50k,Rural
+Keen,2024,Q1,South,Sandals,42970,5922795.0,3692014.0,2230781.0,37.7,45-54,Female,75k-100k,Urban
+Keen,2024,Q1,Northeast,Trail Shoes,31821,4072084.0,2399115.0,1672969.0,41.1,35-44,Female,75k-100k,Urban
+Keen,2024,Q1,Midwest,Hiking Boots,39017,5409113.0,3350456.0,2058657.0,38.1,18-24,Male,150k+,Urban
+Keen,2024,Q2,West,Trail Shoes,28340,4194257.0,2691289.0,1502968.0,35.8,25-34,Female,75k-100k,Urban
+Keen,2024,Q2,South,Work Boots,51320,6994738.0,4205070.0,2789668.0,39.9,18-24,Female,Under 50k,Urban
+Keen,2024,Q2,Northeast,Trail Shoes,27782,4075380.0,2575515.0,1499865.0,36.8,25-34,Female,75k-100k,Rural
+Keen,2024,Q2,Midwest,Sandals,47514,6190428.0,3888361.0,2302067.0,37.2,35-44,Female,75k-100k,Urban
+Keen,2024,Q3,West,Hiking Boots,44784,5943163.0,3562139.0,2381024.0,40.1,18-24,Female,50k-75k,Rural
+Keen,2024,Q3,South,Trail Shoes,29294,4166689.0,2577587.0,1589102.0,38.1,45-54,Male,Under 50k,Urban
+Keen,2024,Q3,Northeast,Sandals,41877,5070503.0,3071939.0,1998564.0,39.4,25-34,Female,50k-75k,Urban
+Keen,2024,Q3,Midwest,Trail Shoes,35948,5283258.0,3358718.0,1924540.0,36.4,18-24,Female,50k-75k,Rural
+Keen,2024,Q4,West,Sandals,45854,5643885.0,3581655.0,2062230.0,36.5,45-54,Male,50k-75k,Urban
+Keen,2024,Q4,South,Sandals,37510,4529092.0,2860391.0,1668701.0,36.8,35-44,Female,50k-75k,Suburban
+Keen,2024,Q4,Northeast,Sandals,49800,7023710.0,4261832.0,2761878.0,39.3,18-24,Female,50k-75k,Urban
+Keen,2024,Q4,Midwest,Work Boots,35457,4579475.0,2911054.0,1668421.0,36.4,25-34,Male,Under 50k,Rural
+Keen,2025,Q1,West,Sandals,37056,4811642.0,3081879.0,1729763.0,35.9,35-44,Female,150k+,Suburban
+Keen,2025,Q1,South,Trail Shoes,24904,3074654.0,1992155.0,1082499.0,35.2,25-34,Female,Under 50k,Urban
+Keen,2025,Q1,Northeast,Work Boots,35327,5011359.0,3016625.0,1994734.0,39.8,18-24,Female,150k+,Urban
+Keen,2025,Q1,Midwest,Trail Shoes,25454,3595723.0,2085945.0,1509778.0,42.0,25-34,Female,100k-150k,Urban
+Keen,2025,Q2,West,Trail Shoes,44419,5748595.0,3675428.0,2073167.0,36.1,35-44,Female,100k-150k,Suburban
+Keen,2025,Q2,South,Work Boots,46846,6037028.0,3555267.0,2481761.0,41.1,45-54,Female,50k-75k,Rural
+Keen,2025,Q2,Northeast,Trail Shoes,37306,5089960.0,2952321.0,2137639.0,42.0,35-44,Male,100k-150k,Rural
+Keen,2025,Q2,Midwest,Trail Shoes,39236,5228337.0,3279704.0,1948633.0,37.3,45-54,Male,Under 50k,Suburban
+Keen,2025,Q3,West,Trail Shoes,27060,3911596.0,2474396.0,1437200.0,36.7,35-44,Male,50k-75k,Urban
+Keen,2025,Q3,South,Hiking Boots,25514,3249087.0,1992534.0,1256553.0,38.7,18-24,Female,100k-150k,Rural
+Keen,2025,Q3,Northeast,Sandals,47538,6697659.0,4116424.0,2581235.0,38.5,25-34,Male,Under 50k,Urban
+Keen,2025,Q3,Midwest,Work Boots,31170,3904872.0,2526677.0,1378195.0,35.3,45-54,Male,150k+,Urban
+Keen,2025,Q4,West,Hiking Boots,38957,4830675.0,2958909.0,1871766.0,38.7,35-44,Female,150k+,Rural
+Keen,2025,Q4,South,Work Boots,51216,7539284.0,4608116.0,2931168.0,38.9,25-34,Female,100k-150k,Suburban
+Keen,2025,Q4,Northeast,Sandals,51520,7167970.0,4541676.0,2626294.0,36.6,45-54,Male,75k-100k,Suburban
+Keen,2025,Q4,Midwest,Hiking Boots,47381,6091863.0,3649148.0,2442715.0,40.1,35-44,Male,50k-75k,Urban
+Cole Haan,2022,Q1,West,Handbags,36551,8354699.0,5258860.0,3095839.0,37.1,18-24,Female,100k-150k,Suburban
+Cole Haan,2022,Q1,South,Outerwear,37624,6936308.0,4427462.0,2508846.0,36.2,45-54,Male,150k+,Suburban
+Cole Haan,2022,Q1,Northeast,Outerwear,24193,5951282.0,3576143.0,2375139.0,39.9,45-54,Female,150k+,Rural
+Cole Haan,2022,Q1,Midwest,Handbags,39998,7813990.0,4770507.0,3043483.0,38.9,18-24,Female,75k-100k,Rural
+Cole Haan,2022,Q2,West,Outerwear,47729,9142639.0,5601853.0,3540786.0,38.7,25-34,Male,100k-150k,Rural
+Cole Haan,2022,Q2,South,Dress Shoes,26750,6018549.0,3547928.0,2470621.0,41.1,45-54,Male,Under 50k,Suburban
+Cole Haan,2022,Q2,Northeast,Outerwear,34726,6765188.0,4078591.0,2686597.0,39.7,45-54,Female,100k-150k,Suburban
+Cole Haan,2022,Q2,Midwest,Dress Shoes,39411,7147454.0,4415406.0,2732048.0,38.2,35-44,Male,Under 50k,Rural
+Cole Haan,2022,Q3,West,Dress Shoes,48714,8874332.0,5300726.0,3573606.0,40.3,18-24,Male,50k-75k,Urban
+Cole Haan,2022,Q3,South,Outerwear,45936,8636302.0,5582013.0,3054289.0,35.4,45-54,Female,75k-100k,Urban
+Cole Haan,2022,Q3,Northeast,Dress Shoes,49486,11745556.0,7605605.0,4139951.0,35.2,18-24,Male,75k-100k,Rural
+Cole Haan,2022,Q3,Midwest,Outerwear,36997,9097671.0,5402953.0,3694718.0,40.6,25-34,Male,75k-100k,Rural
+Cole Haan,2022,Q4,West,Dress Shoes,50090,12465853.0,7913130.0,4552723.0,36.5,35-44,Female,75k-100k,Urban
+Cole Haan,2022,Q4,South,Sneakers,24414,5846428.0,3727467.0,2118961.0,36.2,18-24,Female,75k-100k,Rural
+Cole Haan,2022,Q4,Northeast,Outerwear,47177,8997096.0,5329246.0,3667850.0,40.8,35-44,Female,100k-150k,Suburban
+Cole Haan,2022,Q4,Midwest,Sneakers,34561,8281504.0,5284851.0,2996653.0,36.2,18-24,Female,100k-150k,Urban
+Cole Haan,2023,Q1,West,Outerwear,42672,9504045.0,5764481.0,3739564.0,39.3,18-24,Female,75k-100k,Urban
+Cole Haan,2023,Q1,South,Outerwear,30950,6339728.0,3791694.0,2548034.0,40.2,35-44,Female,150k+,Urban
+Cole Haan,2023,Q1,Northeast,Handbags,26805,5277768.0,3211258.0,2066510.0,39.2,25-34,Female,100k-150k,Suburban
+Cole Haan,2023,Q1,Midwest,Dress Shoes,27049,5425934.0,3300639.0,2125295.0,39.2,25-34,Female,150k+,Suburban
+Cole Haan,2023,Q2,West,Outerwear,42136,9150445.0,5579807.0,3570638.0,39.0,35-44,Female,100k-150k,Suburban
+Cole Haan,2023,Q2,South,Sneakers,32237,6322890.0,3986518.0,2336372.0,37.0,35-44,Male,150k+,Rural
+Cole Haan,2023,Q2,Northeast,Handbags,30276,5908268.0,3627050.0,2281218.0,38.6,35-44,Male,50k-75k,Suburban
+Cole Haan,2023,Q2,Midwest,Handbags,35825,6898495.0,4007959.0,2890536.0,41.9,25-34,Female,Under 50k,Urban
+Cole Haan,2023,Q3,West,Sneakers,46852,11529634.0,7201996.0,4327638.0,37.5,45-54,Male,Under 50k,Rural
+Cole Haan,2023,Q3,South,Sneakers,39381,8408237.0,5077309.0,3330928.0,39.6,18-24,Female,100k-150k,Urban
+Cole Haan,2023,Q3,Northeast,Dress Shoes,37130,7961498.0,4939246.0,3022252.0,38.0,18-24,Male,50k-75k,Rural
+Cole Haan,2023,Q3,Midwest,Sneakers,26791,6686344.0,3933520.0,2752824.0,41.2,45-54,Male,150k+,Suburban
+Cole Haan,2023,Q4,West,Outerwear,38507,7732772.0,4803573.0,2929199.0,37.9,45-54,Female,150k+,Rural
+Cole Haan,2023,Q4,South,Dress Shoes,43976,10871202.0,6380812.0,4490390.0,41.3,25-34,Male,75k-100k,Rural
+Cole Haan,2023,Q4,Northeast,Dress Shoes,29146,5735658.0,3548304.0,2187354.0,38.1,25-34,Male,100k-150k,Suburban
+Cole Haan,2023,Q4,Midwest,Outerwear,33543,6114379.0,3669651.0,2444728.0,40.0,35-44,Female,Under 50k,Rural
+Cole Haan,2024,Q1,West,Handbags,32668,7681814.0,4791563.0,2890251.0,37.6,25-34,Female,Under 50k,Rural
+Cole Haan,2024,Q1,South,Handbags,45221,8611401.0,5154735.0,3456666.0,40.1,25-34,Male,Under 50k,Urban
+Cole Haan,2024,Q1,Northeast,Sneakers,43498,10110111.0,6266697.0,3843414.0,38.0,35-44,Female,Under 50k,Suburban
+Cole Haan,2024,Q1,Midwest,Sneakers,46928,9769264.0,5852348.0,3916916.0,40.1,45-54,Female,Under 50k,Rural
+Cole Haan,2024,Q2,West,Dress Shoes,38156,8829961.0,5494531.0,3335430.0,37.8,18-24,Male,50k-75k,Rural
+Cole Haan,2024,Q2,South,Dress Shoes,49059,11139322.0,6670959.0,4468363.0,40.1,18-24,Male,100k-150k,Rural
+Cole Haan,2024,Q2,Northeast,Outerwear,33114,6381208.0,3962558.0,2418650.0,37.9,45-54,Male,100k-150k,Suburban
+Cole Haan,2024,Q2,Midwest,Outerwear,34921,7070597.0,4152717.0,2917880.0,41.3,25-34,Female,100k-150k,Rural
+Cole Haan,2024,Q3,West,Outerwear,33444,7571081.0,4603457.0,2967624.0,39.2,18-24,Female,Under 50k,Suburban
+Cole Haan,2024,Q3,South,Sneakers,34593,6507445.0,4126230.0,2381215.0,36.6,18-24,Female,100k-150k,Urban
+Cole Haan,2024,Q3,Northeast,Handbags,40988,8415843.0,5326816.0,3089027.0,36.7,45-54,Male,50k-75k,Suburban
+Cole Haan,2024,Q3,Midwest,Handbags,33438,7044321.0,4430015.0,2614306.0,37.1,18-24,Male,150k+,Urban
+Cole Haan,2024,Q4,West,Handbags,34182,7470775.0,4621852.0,2848923.0,38.1,18-24,Male,Under 50k,Suburban
+Cole Haan,2024,Q4,South,Dress Shoes,45224,10774619.0,6625165.0,4149454.0,38.5,35-44,Female,100k-150k,Suburban
+Cole Haan,2024,Q4,Northeast,Outerwear,31986,6780234.0,4001185.0,2779049.0,41.0,25-34,Male,Under 50k,Suburban
+Cole Haan,2024,Q4,Midwest,Outerwear,35137,8622528.0,5307525.0,3315003.0,38.4,18-24,Female,75k-100k,Rural
+Cole Haan,2025,Q1,West,Outerwear,28869,6098816.0,3744087.0,2354729.0,38.6,35-44,Female,100k-150k,Suburban
+Cole Haan,2025,Q1,South,Handbags,46855,9217146.0,5593038.0,3624108.0,39.3,45-54,Male,75k-100k,Rural
+Cole Haan,2025,Q1,Northeast,Outerwear,47108,11491531.0,6971753.0,4519778.0,39.3,25-34,Female,Under 50k,Urban
+Cole Haan,2025,Q1,Midwest,Sneakers,27288,6581683.0,4020233.0,2561450.0,38.9,45-54,Male,50k-75k,Suburban
+Cole Haan,2025,Q2,West,Handbags,26451,5630475.0,3647671.0,1982804.0,35.2,35-44,Female,Under 50k,Suburban
+Cole Haan,2025,Q2,South,Outerwear,34376,7695959.0,4941735.0,2754224.0,35.8,45-54,Male,150k+,Urban
+Cole Haan,2025,Q2,Northeast,Handbags,44681,10183156.0,6111080.0,4072076.0,40.0,25-34,Male,100k-150k,Urban
+Cole Haan,2025,Q2,Midwest,Dress Shoes,38538,7385636.0,4438491.0,2947145.0,39.9,18-24,Male,75k-100k,Urban
+Cole Haan,2025,Q3,West,Sneakers,35746,7372215.0,4351007.0,3021208.0,41.0,45-54,Male,50k-75k,Urban
+Cole Haan,2025,Q3,South,Dress Shoes,43971,10595198.0,6604832.0,3990366.0,37.7,25-34,Female,150k+,Urban
+Cole Haan,2025,Q3,Northeast,Handbags,39110,8786192.0,5378643.0,3407549.0,38.8,18-24,Female,75k-100k,Rural
+Cole Haan,2025,Q3,Midwest,Handbags,26420,5572535.0,3366868.0,2205667.0,39.6,35-44,Female,75k-100k,Suburban
+Cole Haan,2025,Q4,West,Sneakers,30527,7630411.0,4881429.0,2748982.0,36.0,18-24,Male,100k-150k,Rural
+Cole Haan,2025,Q4,South,Sneakers,42835,8597459.0,5407368.0,3190091.0,37.1,18-24,Female,75k-100k,Urban
+Cole Haan,2025,Q4,Northeast,Dress Shoes,43870,10184949.0,6501040.0,3683909.0,36.2,35-44,Male,150k+,Suburban
+Cole Haan,2025,Q4,Midwest,Handbags,44860,8671852.0,5181812.0,3490040.0,40.2,25-34,Male,Under 50k,Suburban
+Saucony,2022,Q1,West,Trail Running Shoes,25093,3592890.0,2268066.0,1324824.0,36.9,18-24,Female,75k-100k,Rural
+Saucony,2022,Q1,South,Trail Running Shoes,29755,3809586.0,2419300.0,1390286.0,36.5,35-44,Female,50k-75k,Suburban
+Saucony,2022,Q1,Northeast,Trail Running Shoes,50427,6646564.0,4259968.0,2386596.0,35.9,18-24,Female,Under 50k,Urban
+Saucony,2022,Q1,Midwest,Running Shoes,46161,6876543.0,4460098.0,2416445.0,35.1,35-44,Male,100k-150k,Urban
+Saucony,2022,Q2,West,Trail Running Shoes,41582,5195403.0,3147380.0,2048023.0,39.4,35-44,Female,75k-100k,Urban
+Saucony,2022,Q2,South,Performance Trainers,31661,4396417.0,2740587.0,1655830.0,37.7,35-44,Male,Under 50k,Rural
+Saucony,2022,Q2,Northeast,Trail Running Shoes,46972,6204419.0,3775890.0,2428529.0,39.1,25-34,Male,Under 50k,Suburban
+Saucony,2022,Q2,Midwest,Trail Running Shoes,27805,3444697.0,2211868.0,1232829.0,35.8,25-34,Female,100k-150k,Suburban
+Saucony,2022,Q3,West,Performance Trainers,48351,7149148.0,4416840.0,2732308.0,38.2,25-34,Female,Under 50k,Suburban
+Saucony,2022,Q3,South,Performance Trainers,37373,5888569.0,3530679.0,2357890.0,40.0,35-44,Male,100k-150k,Suburban
+Saucony,2022,Q3,Northeast,Running Shoes,35884,4448690.0,2793767.0,1654923.0,37.2,35-44,Male,100k-150k,Suburban
+Saucony,2022,Q3,Midwest,Running Shoes,28002,4423208.0,2820650.0,1602558.0,36.2,18-24,Male,150k+,Urban
+Saucony,2022,Q4,West,Running Shoes,49781,6637817.0,4309387.0,2328430.0,35.1,25-34,Male,150k+,Urban
+Saucony,2022,Q4,South,Performance Trainers,31076,4739777.0,2826376.0,1913401.0,40.4,25-34,Male,75k-100k,Urban
+Saucony,2022,Q4,Northeast,Running Shoes,41701,5422221.0,3211120.0,2211101.0,40.8,18-24,Male,Under 50k,Suburban
+Saucony,2022,Q4,Midwest,Running Shoes,43295,5756107.0,3408751.0,2347356.0,40.8,18-24,Male,100k-150k,Rural
+Saucony,2023,Q1,West,Running Shoes,48433,5935092.0,3628592.0,2306500.0,38.9,35-44,Male,100k-150k,Rural
+Saucony,2023,Q1,South,Running Shoes,44155,5375191.0,3412310.0,1962881.0,36.5,35-44,Female,Under 50k,Urban
+Saucony,2023,Q1,Northeast,Trail Running Shoes,51764,7043253.0,4423352.0,2619901.0,37.2,45-54,Female,Under 50k,Urban
+Saucony,2023,Q1,Midwest,Trail Running Shoes,43932,5532504.0,3257723.0,2274781.0,41.1,35-44,Female,150k+,Rural
+Saucony,2023,Q2,West,Trail Running Shoes,38867,5450010.0,3325127.0,2124883.0,39.0,18-24,Male,100k-150k,Suburban
+Saucony,2023,Q2,South,Running Shoes,37559,5016277.0,3068682.0,1947595.0,38.8,45-54,Male,75k-100k,Suburban
+Saucony,2023,Q2,Northeast,Trail Running Shoes,45794,5962177.0,3856047.0,2106130.0,35.3,45-54,Male,Under 50k,Urban
+Saucony,2023,Q2,Midwest,Running Shoes,38151,4725481.0,2985161.0,1740320.0,36.8,25-34,Male,150k+,Rural
+Saucony,2023,Q3,West,Performance Trainers,34801,5108805.0,3110019.0,1998786.0,39.1,45-54,Male,75k-100k,Rural
+Saucony,2023,Q3,South,Trail Running Shoes,35522,4409844.0,2714342.0,1695502.0,38.4,25-34,Female,50k-75k,Urban
+Saucony,2023,Q3,Northeast,Trail Running Shoes,51701,7354499.0,4324754.0,3029745.0,41.2,35-44,Male,100k-150k,Rural
+Saucony,2023,Q3,Midwest,Performance Trainers,44105,6483394.0,4013038.0,2470356.0,38.1,35-44,Male,50k-75k,Suburban
+Saucony,2023,Q4,West,Performance Trainers,48982,6483228.0,3914493.0,2568735.0,39.6,18-24,Male,50k-75k,Rural
+Saucony,2023,Q4,South,Performance Trainers,37132,4559194.0,2880808.0,1678386.0,36.8,18-24,Male,150k+,Urban
+Saucony,2023,Q4,Northeast,Trail Running Shoes,37757,5215972.0,3082737.0,2133235.0,40.9,35-44,Female,150k+,Rural
+Saucony,2023,Q4,Midwest,Running Shoes,25723,3246839.0,2054634.0,1192205.0,36.7,18-24,Male,75k-100k,Suburban
+Saucony,2024,Q1,West,Performance Trainers,37894,5283427.0,3227873.0,2055554.0,38.9,35-44,Male,150k+,Urban
+Saucony,2024,Q1,South,Trail Running Shoes,38087,4739378.0,2973842.0,1765536.0,37.3,45-54,Female,Under 50k,Urban
+Saucony,2024,Q1,Northeast,Trail Running Shoes,43638,5332183.0,3168968.0,2163215.0,40.6,25-34,Male,75k-100k,Suburban
+Saucony,2024,Q1,Midwest,Trail Running Shoes,27931,3360356.0,2124723.0,1235633.0,36.8,25-34,Male,100k-150k,Rural
+Saucony,2024,Q2,West,Performance Trainers,31540,4415931.0,2818842.0,1597089.0,36.2,35-44,Male,100k-150k,Rural
+Saucony,2024,Q2,South,Running Shoes,38294,4623988.0,2980074.0,1643914.0,35.6,35-44,Female,150k+,Suburban
+Saucony,2024,Q2,Northeast,Performance Trainers,44976,6148568.0,3615740.0,2532828.0,41.2,18-24,Female,50k-75k,Rural
+Saucony,2024,Q2,Midwest,Trail Running Shoes,51263,7565619.0,4579694.0,2985925.0,39.5,45-54,Male,50k-75k,Suburban
+Saucony,2024,Q3,West,Performance Trainers,37121,5232521.0,3179822.0,2052699.0,39.2,35-44,Female,50k-75k,Suburban
+Saucony,2024,Q3,South,Running Shoes,26502,3721393.0,2188112.0,1533281.0,41.2,25-34,Female,75k-100k,Rural
+Saucony,2024,Q3,Northeast,Performance Trainers,50707,6384396.0,3748894.0,2635502.0,41.3,35-44,Male,50k-75k,Rural
+Saucony,2024,Q3,Midwest,Running Shoes,48910,7354406.0,4304348.0,3050058.0,41.5,45-54,Female,150k+,Rural
+Saucony,2024,Q4,West,Trail Running Shoes,46319,7270516.0,4504190.0,2766326.0,38.0,35-44,Female,50k-75k,Suburban
+Saucony,2024,Q4,South,Running Shoes,39365,5420101.0,3258551.0,2161550.0,39.9,35-44,Male,75k-100k,Rural
+Saucony,2024,Q4,Northeast,Running Shoes,34171,4731648.0,2756812.0,1974836.0,41.7,35-44,Female,Under 50k,Rural
+Saucony,2024,Q4,Midwest,Running Shoes,44152,6347432.0,3852344.0,2495088.0,39.3,18-24,Female,150k+,Rural
+Saucony,2025,Q1,West,Running Shoes,34535,4979955.0,3063149.0,1916806.0,38.5,18-24,Female,Under 50k,Suburban
+Saucony,2025,Q1,South,Performance Trainers,26763,3751690.0,2221297.0,1530393.0,40.8,25-34,Female,100k-150k,Rural
+Saucony,2025,Q1,Northeast,Performance Trainers,43982,5557119.0,3368168.0,2188951.0,39.4,35-44,Female,100k-150k,Suburban
+Saucony,2025,Q1,Midwest,Performance Trainers,43591,5322227.0,3321932.0,2000295.0,37.6,35-44,Male,75k-100k,Urban
+Saucony,2025,Q2,West,Performance Trainers,46229,6262299.0,3742599.0,2519700.0,40.2,25-34,Female,Under 50k,Rural
+Saucony,2025,Q2,South,Performance Trainers,28634,4486085.0,2699350.0,1786735.0,39.8,45-54,Male,150k+,Rural
+Saucony,2025,Q2,Northeast,Running Shoes,34144,4860633.0,3038112.0,1822521.0,37.5,35-44,Male,150k+,Urban
+Saucony,2025,Q2,Midwest,Performance Trainers,45969,6294823.0,3810432.0,2484391.0,39.5,35-44,Female,50k-75k,Urban
+Saucony,2025,Q3,West,Trail Running Shoes,49105,6847733.0,4080277.0,2767456.0,40.4,25-34,Male,Under 50k,Suburban
+Saucony,2025,Q3,South,Running Shoes,40635,6129180.0,3913226.0,2215954.0,36.2,18-24,Female,150k+,Urban
+Saucony,2025,Q3,Northeast,Performance Trainers,36344,4585526.0,2717654.0,1867872.0,40.7,25-34,Female,Under 50k,Suburban
+Saucony,2025,Q3,Midwest,Trail Running Shoes,46163,6868289.0,4449767.0,2418522.0,35.2,35-44,Female,50k-75k,Rural
+Saucony,2025,Q4,West,Running Shoes,34140,5415419.0,3438282.0,1977137.0,36.5,25-34,Female,150k+,Suburban
+Saucony,2025,Q4,South,Trail Running Shoes,49212,6460102.0,3919545.0,2540557.0,39.3,45-54,Male,50k-75k,Rural
+Saucony,2025,Q4,Northeast,Running Shoes,32192,3930231.0,2411752.0,1518479.0,38.6,35-44,Male,150k+,Urban
+Saucony,2025,Q4,Midwest,Trail Running Shoes,26748,4026234.0,2412098.0,1614136.0,40.1,25-34,Female,Under 50k,Urban
