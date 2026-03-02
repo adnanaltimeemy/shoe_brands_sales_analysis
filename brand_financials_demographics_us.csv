@@ -1,0 +1,4 @@
+Brand,Year,Net_Sales_USD_M,Gross_Margin_pct,Profit_Margin_pct,Share_Teens_13_19,Share_YoungAdults_20_29,Share_Adults_30_49,Share_OlderAdults_50_plus,Source_Notes
+Thorogood,2025,7.0,,,0.05,0.1,0.45,0.4,Estimated revenue from Growjo company data. Margins not publicly cited in source.
+Under Armour,2025,1180.0,46.7,,0.15,0.35,0.3,0.2,"Quarterly revenue and gross margin reported by Reuters, May 13 2025. Represents one quarter, not full year."
+Hoka,2025,2233.0,57.9,,0.12,0.28,0.4,0.2,"HOKA brand net sales from Deckers Brands FY2025 results. Gross margin is for the overall company, not brand-specific."
